@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-vector-icons] C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\64007862e4082b4de16b7878745cdd93\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e9f5d559034d63b23d4bd45717fbf25e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3a68ef1f2770d38fb4af1783728d2e66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e24a4519968a1cc991358a36dc8e786d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ef5fcc07de9042649fbae1e398926917\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\78ff0f74e617d320af400c39bda44f56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\be1bfec9194a9fbac4db9df54c81b7e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa3543b93e23bafbb0d9e071e254e553\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fa21a8fe57c73179111783990ccaeffe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\607ed0566551d46557e3a72ff4087974\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6461013d6673c550434a3659700ecc41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1f60589acd523e3f0e1bfbf5c6f933df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a4075cca4964af9cad775c8ca1ab6626\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5e1c82d0e0c98fe3f12b931e105a916a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e06378b9c01824c02c1a95b4b86840da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7801d9a86184b162d0427dd90d3fbc34\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bebafccda5eaa72a827bc7e0f73e166e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4924e7606708769e9e8054a8ed3a1793\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7bfc0bd7fd4d228530f23cc6a5de8494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e485b8ff3830d56c962c3a6ea8e70723\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3baf7f9b4f6ed831f884b4c538ef0944\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b902fef12f4c3aa57843eeee50f30065\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\13e675ea51b937616c36dda38e986bd3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6a6ab82ea2edf742a0d474ce8eb15de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8eec65114ca8fb8fc0c1e84ebda5b64b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8671e5f7297b0faf5902561e89a71a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2c689e6653ff3c91f978e73875a337d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\3528a9019134b98b49c51cb1f58dfcec\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\50567ecaf296d8a9f5dc08c141d1857f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\c619d966339ad6045d76d7bca143f9b3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\677107d10e7884b0603def60fe28f67c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c084b6805c5017409e13f5f34d3386a5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\800692658db7cae72edef48a4d7e32ac\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1a711f3711e3ecdb0deefeb47c4e593a\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\34dd0444f77c2a2d9ac95052fe85062b\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:2:5-28
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\64007862e4082b4de16b7878745cdd93\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\64007862e4082b4de16b7878745cdd93\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\64007862e4082b4de16b7878745cdd93\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\64007862e4082b4de16b7878745cdd93\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7801d9a86184b162d0427dd90d3fbc34\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7801d9a86184b162d0427dd90d3fbc34\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bebafccda5eaa72a827bc7e0f73e166e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bebafccda5eaa72a827bc7e0f73e166e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\800692658db7cae72edef48a4d7e32ac\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\800692658db7cae72edef48a4d7e32ac\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1a711f3711e3ecdb0deefeb47c4e593a\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1a711f3711e3ecdb0deefeb47c4e593a\AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7801d9a86184b162d0427dd90d3fbc34\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.mobileapp.MainActivity
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\64007862e4082b4de16b7878745cdd93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\react-native-0.58.4.aar\64007862e4082b4de16b7878745cdd93\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e9f5d559034d63b23d4bd45717fbf25e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e9f5d559034d63b23d4bd45717fbf25e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3a68ef1f2770d38fb4af1783728d2e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3a68ef1f2770d38fb4af1783728d2e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e24a4519968a1cc991358a36dc8e786d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e24a4519968a1cc991358a36dc8e786d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ef5fcc07de9042649fbae1e398926917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ef5fcc07de9042649fbae1e398926917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\78ff0f74e617d320af400c39bda44f56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\78ff0f74e617d320af400c39bda44f56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\be1bfec9194a9fbac4db9df54c81b7e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\be1bfec9194a9fbac4db9df54c81b7e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa3543b93e23bafbb0d9e071e254e553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa3543b93e23bafbb0d9e071e254e553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fa21a8fe57c73179111783990ccaeffe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fa21a8fe57c73179111783990ccaeffe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\607ed0566551d46557e3a72ff4087974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\607ed0566551d46557e3a72ff4087974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6461013d6673c550434a3659700ecc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6461013d6673c550434a3659700ecc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1f60589acd523e3f0e1bfbf5c6f933df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1f60589acd523e3f0e1bfbf5c6f933df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a4075cca4964af9cad775c8ca1ab6626\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a4075cca4964af9cad775c8ca1ab6626\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5e1c82d0e0c98fe3f12b931e105a916a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5e1c82d0e0c98fe3f12b931e105a916a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e06378b9c01824c02c1a95b4b86840da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e06378b9c01824c02c1a95b4b86840da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7801d9a86184b162d0427dd90d3fbc34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7801d9a86184b162d0427dd90d3fbc34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bebafccda5eaa72a827bc7e0f73e166e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bebafccda5eaa72a827bc7e0f73e166e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4924e7606708769e9e8054a8ed3a1793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4924e7606708769e9e8054a8ed3a1793\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7bfc0bd7fd4d228530f23cc6a5de8494\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7bfc0bd7fd4d228530f23cc6a5de8494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e485b8ff3830d56c962c3a6ea8e70723\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e485b8ff3830d56c962c3a6ea8e70723\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3baf7f9b4f6ed831f884b4c538ef0944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3baf7f9b4f6ed831f884b4c538ef0944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b902fef12f4c3aa57843eeee50f30065\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b902fef12f4c3aa57843eeee50f30065\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\13e675ea51b937616c36dda38e986bd3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\13e675ea51b937616c36dda38e986bd3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6a6ab82ea2edf742a0d474ce8eb15de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6a6ab82ea2edf742a0d474ce8eb15de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8eec65114ca8fb8fc0c1e84ebda5b64b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8eec65114ca8fb8fc0c1e84ebda5b64b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8671e5f7297b0faf5902561e89a71a9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8671e5f7297b0faf5902561e89a71a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2c689e6653ff3c91f978e73875a337d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2c689e6653ff3c91f978e73875a337d1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\3528a9019134b98b49c51cb1f58dfcec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\3528a9019134b98b49c51cb1f58dfcec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\50567ecaf296d8a9f5dc08c141d1857f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\50567ecaf296d8a9f5dc08c141d1857f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\c619d966339ad6045d76d7bca143f9b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\c619d966339ad6045d76d7bca143f9b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\677107d10e7884b0603def60fe28f67c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\677107d10e7884b0603def60fe28f67c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c084b6805c5017409e13f5f34d3386a5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c084b6805c5017409e13f5f34d3386a5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\800692658db7cae72edef48a4d7e32ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\800692658db7cae72edef48a4d7e32ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\34dd0444f77c2a2d9ac95052fe85062b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\MrDelicia\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\34dd0444f77c2a2d9ac95052fe85062b\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\MrDelicia\Desktop\semana_omnistack\omnistackrn\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
